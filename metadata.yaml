@@ -1,0 +1,46 @@
+_repo: Stan-LynnA-Boy-s-Adventures-in-China_34494
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Groome, William H. C.
+    aliases:
+    - Groome, W. H. C. (William H. C.)
+    - Groome, W.H.C.
+    gutenberg_agent_id: '9731'
+    url: http://www.gutenberg.org/2009/agents/9731
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. M. (George Manville)
+    - Fenn, G. Manville (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Boxer Rebellion, 1899-1901 -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: 'Stan Lynn: A Boy''s Adventures in China'
+url: http://www.gutenberg.org/ebooks/34494
